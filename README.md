@@ -4,3 +4,5 @@ First commit on Master
 First commit of Feature-A
 created featrue B
 frist commit on feature-C
+second commit on feature-C
+
